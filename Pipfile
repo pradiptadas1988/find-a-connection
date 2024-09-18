@@ -1,0 +1,18 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "findaconnection"
+
+[packages]
+langchain = "*"
+langchain-openai = "*"
+python-dotenv = "*"
+black = "*"
+tweepy = "*"
+langchain-community = "*"
+flask = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.12"
